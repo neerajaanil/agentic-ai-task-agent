@@ -1,0 +1,6 @@
+openai
+rich
+typer
+python-dotenv
+pytest
+pytest-mock
