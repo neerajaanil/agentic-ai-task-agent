@@ -4,7 +4,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green.svg)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A production-ready Python AI agent that demonstrates advanced **agentic AI systems** capabilities through autonomous task planning, execution, and memory management using OpenAI function calling.
+A production-ready Python AI agent that demonstrates advanced **agentic AI systems** capabilities through autonomous task planning, execution, and memory management using OpenAI Agents SDK
 
 ## 🌟 Overview
 
